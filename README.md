@@ -7,8 +7,6 @@ The following set of ODEs was used and fitted. Ac stands for acid, F for fuel, W
 We also calculate the yield of the anhydride as \frac {k4*∫[An]dt} {[F]_0}
 
 
-k4*∫[An]dt/[EDC]0![image](https://github.com/BoekhovenLab/Catalyst-poisoning/assets/78074696/6dc7aaee-00e4-4f23-802e-4c268d07d731)
-
 <img width="426" alt="image" src="https://github.com/BoekhovenLab/Catalyst-poisoning/assets/78074696/f6b43be1-3d00-4ab1-ab25-57bd44332cb2">
 
 
