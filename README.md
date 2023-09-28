@@ -1,6 +1,6 @@
 # Catalyst-poisoning
+![‎Untitled 2 ‎001](https://github.com/BoekhovenLab/Catalyst-poisoning/assets/78074696/81ac3807-94b8-48a2-adbf-b4664e153ab1)
 
-![‎Untitled 2 ‎001](https://github.com/BoekhovenLab/Catalyst-poisoning/assets/78074696/d3d6f5d7-249b-42d4-a984-52eb742314a9)
 
 We used the following set of ODEs to describe the systems by using a steady-state approximation that removed any explicit dependence on the concentration of O-acylurea and used an in-house developed Python workflow to fit the experimental data. 
 The following set of ODEs was used and fitted. Ac stands for acid, F for fuel, W for waste, P for product and N for N-acylurea.
