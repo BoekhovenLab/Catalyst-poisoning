@@ -1,5 +1,9 @@
 # Catalyst-poisoning
 ![‎Untitled 2 ‎001](https://github.com/BoekhovenLab/Catalyst-poisoning/assets/78074696/81ac3807-94b8-48a2-adbf-b4664e153ab1)
+# Suppressing catalyst poisoning in the carbodiimide-fueled reaction cycle 
+
+A preprint version can be seen published in [ChemRvix] (https://chemrxiv.org/engage/chemrxiv/article-details/64af0d6d6e1c4c986b487372)
+
 ## Authors
 
 Xiaoyao Chen, Héctor Soria-Carrera, Oleksii Zozulia, and Job Boekhoven*
