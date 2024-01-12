@@ -2,7 +2,7 @@
 
 # Suppressing catalyst poisoning in the carbodiimide-fueled reaction cycle 
 
-The published of the article can be found in [Chemical Science]([https://chemrxiv.org/engage/chemrxiv/article-details/64af0d6d6e1c4c986b487372](https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC04281B))
+The published of the article can be found in [Chemical Science]([https://pubs.rsc.org/en/content/articlelanding/2023/SC/D3SC04281B])
 
 ## Authors
 
